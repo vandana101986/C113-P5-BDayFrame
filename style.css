@@ -1,0 +1,23 @@
+body{
+    background: linear-gradient(to bottom, #95d3f0 0%, #051f91 100%);
+    text-align: center;
+}
+canvas{
+    border:5px dotted blue;
+}
+h1{
+    font-size: 100px;
+ 
+    color:purple;
+    text-align: center;
+}
+
+      button{
+          width: 20%;
+          background-color: rgb(0, 9, 128);
+          color:cornsilk;
+          font-weight: bold;
+      }
+      #space{
+          padding-bottom: 50px;
+      }
